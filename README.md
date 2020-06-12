@@ -1,5 +1,8 @@
 # 5bosses-hackathonlite2020
 
+## Google docs for ideas
+https://docs.google.com/document/d/1j8jo9JqtXugE00AA_xPeaH2mDrTQIysIq2WlzvsN410/edit?usp=sharing
+
 ## Problem statement
 “The COVID-19 Pandemic has made society more reliant on virtual health services. Given the sudden nature of the event, many of these services weren’t designed with the problems caused by the pandemic in mind and are consequently facing great difficulty. Come up with a product that improves or supports virtual health services.”
 
