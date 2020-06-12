@@ -20,20 +20,20 @@ Complete submission form at https://forms.gle/MTuzfagMHvuP9pcz7
 
 #### Effectiveness (15)
 
-How well does the project tackle the goal? Will it completely solve the goal, makesignificant strides to achieve the goal, address a smaller (but still important) partof the goal, or just scratch the surface of the goal?
+How well does the project tackle the goal? Will it completely solve the goal, make significant strides to achieve the goal, address a smaller (but still important) part of the goal, or just scratch the surface of the goal?
 
 #### Viability/Feasibility (10)
 
-If the project were to be rolled-out in the real world, how viable would it actuallybe? Would it be feasible in terms of time, cost & scale? Or is it a bit too idealisticto be implemented realistically?Once correctly implemented, what is the projected value of this solution? Canyou show it in terms of the potential hours saved, cost reduced or revenuegenerated?
+If the project were to be rolled-out in the real world, how viable would it actuallybe? Would it be feasible in terms of time, cost & scale? Or is it a bit too idealistic to be implemented realistically? Once correctly implemented, what is the projected value of this solution? Can you show it in terms of the potential hours saved, cost reduced or revenue generated?
 
 #### Social Impact (10)
 
-What kind of social or business value could this product deliver? How does thisproject make the world a little bit better, and to positively impact people’s lives?
+What kind of social or business value could this product deliver? How does this project make the world a little bit better, and to positively impact people’s lives?
 
 #### Originality (5)
 
-Is the hack more than just another generic social/mobile/web/IoT solution? Doesit do something entirely novel, or at least take a fresh approach to an oldproblem?
+Is the hack more than just another generic social/mobile/web/IoT solution? Does it do something entirely novel, or at least take a fresh approach to an old problem?
 
 #### Presentation (5)
 
-How effective was the presentation at conveying the team’s approach to theirchosen goal? Was it easy to understand the problem domain and how exactlythe project has taken steps in tackling it?
+How effective was the presentation at conveying the team’s approach to their chosen goal? Was it easy to understand the problem domain and how exactly the project has taken steps in tackling it?
